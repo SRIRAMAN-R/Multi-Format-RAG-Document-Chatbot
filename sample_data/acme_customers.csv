@@ -1,0 +1,7 @@
+Customer_ID,Account_Name,Region,Account_Manager,Annual_Contract_Value_USD,Contract_Status,CSAT_Score
+CUST-001,Apex Retail Group,South,Sarah Jenkins,250000,Active,4.8
+CUST-002,Metro Supermarket Chain,North,Michael Chang,420000,Active,4.5
+CUST-003,Horizon Logistics,West,David Miller,180000,Pending Renewal,4.2
+CUST-004,Beacon Department Stores,East,Elena Rostova,310000,Active,4.9
+CUST-005,Starlight Mart,Central,Priya Patel,95000,Under Review,3.8
+CUST-006,Pinnacle Commerce,South,Sarah Jenkins,540000,Active,4.9

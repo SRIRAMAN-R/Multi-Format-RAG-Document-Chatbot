@@ -1,0 +1,8 @@
+[server]
+headless = true
+# torch.classes is patched in app.py so auto watcher is safe to use
+fileWatcherType = "auto"
+runOnSave = true
+
+[runner]
+magicEnabled = false
